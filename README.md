@@ -7,9 +7,9 @@
   </a>
   
   </p>
-<p float="left">
+<p>
   
-  <img align="left" src="https://leetcard.jacoblin.cool/sahabhisek11?theme=light&font=Karma&ext=contest" height="400" width="800"/>
+  <img align="left" src="https://leetcard.jacoblin.cool/sahabhisek11?theme=light&font=Karma&ext=heatmap" height="400" width="800"/>
   
   </p>
 <!--
