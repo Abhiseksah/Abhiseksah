@@ -1,4 +1,4 @@
-### Hi there 👋, I'm a Backend software engineer.
+### Hi there 👋, I'm a Backend engineer.
 
 <p align="left">
 
