@@ -9,7 +9,7 @@
   </p>
 <p>
   
-  <img align="left" src="https://leetcard.jacoblin.cool/sahabhisek11?theme=light&font=Karma&ext=heatmap" height="200" width="200"/>
+  <img align="left" src="https://leetcard.jacoblin.cool/sahabhisek11?theme=light&font=Karma&ext=heatmap" height="200" width="400"/>
   
   </p>
 <!--
