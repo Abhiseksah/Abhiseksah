@@ -4,7 +4,7 @@
 <br/>
   <br/>
 
-- 🌱 I’m currently learning **Low Level Design**
+- 🌱 I’m currently working on **SpringBoot, Kafka & Reactive Programming**
 
 - 📫 How to reach me **sahabhisek11@gmail.com**
 
